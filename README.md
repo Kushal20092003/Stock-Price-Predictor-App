@@ -15,7 +15,7 @@
 
 [Model Saving](#model-saving)
 
-[Web Development](#web development)
+[Web Development](#web-development)
 
 ## Data Collection
 
@@ -114,3 +114,9 @@ Run the app with:
 streamlit run web_stock_price_predictor.py
 
 - Accessible at http://localhost:8501
+
+<img width="452" height="256" alt="image" src="https://github.com/user-attachments/assets/bcd47edb-4520-4174-92a6-3f1138484024" />
+<img width="452" height="275" alt="image" src="https://github.com/user-attachments/assets/c8809328-c77a-439a-a1ea-7df78dc64d78" />
+<img width="452" height="289" alt="image" src="https://github.com/user-attachments/assets/bd9128f3-0079-444d-aba8-7955c818ca7e" />
+<img width="452" height="308" alt="image" src="https://github.com/user-attachments/assets/e526ac18-30d1-4bea-b21e-e62d9b52cdc4" />
+
