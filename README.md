@@ -50,12 +50,12 @@
 
 ## Data Preprocessing
 
-Applies MinMaxScaler to normalize stock price data between 0 and 1.
+- Applies MinMaxScaler to normalize stock price data between 0 and 1.
 
-Converts the time-series into a supervised learning problem using a sliding window:
+- Converts the time-series into a supervised learning problem using a sliding window:
 
-Previous 100 days → Predict next day’s closing price.
+- Previous 100 days → Predict next day’s closing price.
 
-Splits dataset into 70% training and 30% testing.
+- Splits dataset into 70% training and 30% testing.
 
-Purpose: Prepare the data so the neural network can learn efficiently.
+- Purpose: Prepare the data so the neural network can learn efficiently.
